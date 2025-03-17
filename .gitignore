@@ -1,1 +1,6 @@
 .ipynb_checkpoints
+Data/DataSet_Misinfo_TRUE.csv
+Data/DataSet_Misinfo_FAKE.csv
+Data/final_clean_new.csv
+Data/ISOT.csv
+Data/lemmatised_new.csv
